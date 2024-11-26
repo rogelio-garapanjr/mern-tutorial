@@ -1,7 +1,3 @@
-/**
- * @type {mongoose.SchemaDefinitionProperty}
- */
-
 const mongoose = require("mongoose");
 
 const connectDB = async () => {
